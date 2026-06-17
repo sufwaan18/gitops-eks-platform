@@ -19,3 +19,6 @@ Developer
     |
  Kubernetes Pods
 ```
+## Architecture Diagram
+
+![GitOps EKS Architecture](screenshots/gitops-eks-architecture.png)
